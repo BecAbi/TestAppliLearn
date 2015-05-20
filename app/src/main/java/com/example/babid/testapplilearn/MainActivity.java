@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         //this is a test for a commit
         //this is a branch test
+        //Bla bla bla
 
     }
 
