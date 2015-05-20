@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //this is a test for a commit
+        //this is a branch test
     }
 
     @Override
